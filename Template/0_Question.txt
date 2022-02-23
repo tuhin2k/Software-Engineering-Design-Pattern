@@ -1,0 +1,2 @@
+Check the JuiceMakers.java code. You will see 2 classes OrangeJuiceMaker and MangoJuiceMaker. You will see some code duplications there.
+Change the codes in such a way that there is minimal code redundency.
